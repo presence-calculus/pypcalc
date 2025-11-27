@@ -11,7 +11,7 @@ _A modern foundation for reasoning about flow and presence in non-linear systems
 ## 🔍 Overview
 
 `pypcalc` is a python library that provides a reference implementation for the concepts
-in [The Presence Calculus](https://docs.pcalc.org)
+in [The Presence Calculus](https://pc.pcalc.org)
 
 The toolkit includes implementations for key concepts of The Presence Calculus, including
 
