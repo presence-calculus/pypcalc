@@ -35,7 +35,7 @@ high level concepts we talk about in the documentation.
 ## 📚 Documentation
 
 - 🧠 [Concepts](https://docs.pcalc.org)
-- 📘 [API Reference](https://docs.pcalc.org/api/pcalc.html)
+- 📘 [API Reference](https://pc.pcalc.org/api/pcalc.html)
 - 
 
 
